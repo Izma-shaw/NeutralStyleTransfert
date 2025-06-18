@@ -1,0 +1,8 @@
+opencv-python
+gdown
+numpy
+seaborn
+tensorflow
+matplotlib
+scikit-learn
+pydot
